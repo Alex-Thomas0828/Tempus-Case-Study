@@ -10,8 +10,6 @@ The tool ingests physician‑level data, CRM notes, and product knowledge to gen
 
 - Specialty‑aware objection handling
 
-- Copy‑to‑clipboard outputs
-
 - Specialty‑aware prompt routing
 
 Powered by Groq Llama‑3.3‑70B‑Versatile
