@@ -1,4 +1,5 @@
 # TEMPUS GenAI Product Builder Case Study
+## Deployment link: https://tempus-sales-copilot.streamlit.app/ 
 
 A Streamlit‑based GenAI application that simulates a Tempus Sales Copilot.
 The tool ingests physician‑level data, CRM notes, and product knowledge to generate:
@@ -54,4 +55,5 @@ Case Study #1/
 4. Click **Generate Meeting Script**  
 5. Enter an objection (e.g., “Turnaround time is too slow”)  
 6. Click **Generate Objection Response**  
+
 
