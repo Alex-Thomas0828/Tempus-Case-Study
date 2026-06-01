@@ -1,0 +1,13 @@
+Physician,Hospital,System,Specialty,Estimated_Patient_Volume,Current_Testing_Volume,Adoption_Likelihood_Score
+Dr. Emily Carter,Northwest Oncology Center,Northwest Health,Medical Oncology,220,35,0.82
+Dr. Jason Patel,Lakeside Cancer Institute,Lakeside Health,Medical Oncology,180,20,0.76
+Dr. Sarah Nguyen,Metro University Hospital,Metro Health,Thoracic Oncology,260,50,0.88
+Dr. Robert Kim,St. Helena Medical Center,St. Helena Health,Hematology/Oncology,140,10,0.65
+Dr. Maria Lopez,Southview Oncology Group,Southview Health,Gynecologic Oncology,200,15,0.79
+Dr. Daniel Brooks,Evergreen Cancer Center,Evergreen Health,Hematology/Oncology,170,25,0.74
+Dr. Aisha Rahman,Central Oncology Partners,Central Health,Breast Oncology,240,40,0.85
+Dr. Kevin O’Donnell,Westside Medical,Westside Health,GI Oncology,190,18,0.72
+Dr. Priya Shah,Harborview Cancer Network,Harborview Health,Medical Oncology,210,30,0.81
+Dr. Thomas Greene,Midwest Oncology Clinic,Midwest Health,GU Oncology,160,12,0.69
+Dr. Hannah Lee,Cityline Hospital,Cityline Health,Medical Oncology,230,28,0.77
+Dr. Omar Hassan,Valley Regional Cancer Center,Valley Health,Hematology/Oncology,150,14,0.71
