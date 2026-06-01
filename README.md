@@ -23,13 +23,16 @@ Powered by Groq Llama‑3.3‑70B‑Versatile
 
 ## Architecture
 Case Study #1/
-│
 
+│
 ├── app.py                 # Streamlit UI
+
 ├── requirements.txt       # Dependencies
 ├── engine/
+
 │   ├── llm.py             # Groq LLM wrapper
 │   ├── prompts.py         # Prompt templates + specialty routing
+
 │   └── __init__.py
 └── data/                  # (Optional) Sample CSVs
 
