@@ -23,8 +23,8 @@ Powered by Groq Llama‑3.3‑70B‑Versatile
 
 ## Architecture
 Case Study #1/
-
 │
+
 ├── app.py                 # Streamlit UI
 ├── requirements.txt       # Dependencies
 ├── engine/
