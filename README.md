@@ -1,5 +1,6 @@
 # TEMPUS GenAI Product Builder Case Study
-## Deployment link: https://tempus-sales-copilot.streamlit.app/ 
+### Deployment link: https://tempus-sales-copilot.streamlit.app/
+### Github link: https://github.com/Alex-Thomas0828/Tempus-Case-Study
 
 A Streamlit‑based GenAI application that simulates a Tempus Sales Copilot.
 The tool ingests physician‑level data, CRM notes, and product knowledge to generate:
@@ -20,7 +21,7 @@ Powered by Groq Llama‑3.3‑70B‑Versatile
 - Objection Handling Engine: Generates confident, specialty‑specific responses to common objections
 - Specialty‑Aware Prompt Routing: Automatically adjusts messaging for Thoracic, GI, Breast, and Heme oncology
 
-## Architecture
+## File Architecture
 Case Study #1/
 
 │
